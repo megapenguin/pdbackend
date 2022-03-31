@@ -9,7 +9,7 @@
 /coverage
 
 # Ignore the images directory
-/images
+/public/images
 
 # production
 /build
