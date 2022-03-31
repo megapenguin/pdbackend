@@ -10,7 +10,9 @@
 
 # production
 /build
-/build/images
+
+# folders image
+/public/images
 # misc
 .DS_Store
 .env.local
