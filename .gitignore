@@ -8,9 +8,11 @@
 # testing
 /coverage
 
+# Ignore the images directory
+/images
+
 # production
 /build
-/public/images
 # misc
 .DS_Store
 .env.local
